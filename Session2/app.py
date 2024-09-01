@@ -10,7 +10,7 @@ def welcome(name):
     return "<h1>Hey {} Welcome to the Home Page</h2>".format(name.title())
 
 
-# redirection of URL
+
 
 
 
